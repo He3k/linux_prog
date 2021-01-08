@@ -11,12 +11,12 @@ sudo apt-get install software-properties-common
 #sudo apt update
 #sudo apt install elementary-tweaks
 # install grub custumizer
-sudo add-apt-repository ppa:danielrichter2007/grub-customizer
-sudo apt update
-sudo apt install grub-customizer
+#sudo add-apt-repository ppa:danielrichter2007/grub-customizer
+#sudo apt update
+#sudo apt install grub-customizer
 # install snap
 sudo apt install snapd
-# install spotify
-# sudo apt install spotify telegram-desktop
+#install spotify & telegram
+#sudo snap install spotify telegram-desktop
 
 
